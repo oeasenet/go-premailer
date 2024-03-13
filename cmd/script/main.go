@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/vanng822/go-premailer/premailer"
+	"github.com/oeasenet/go-premailer/premailer"
 )
 
 func main() {
